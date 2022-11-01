@@ -78,4 +78,15 @@ export const questions: QuestionInterface[] = [
       img_path: '/assets/img/back.jpg',
     },
   },
+  {
+    slug: 'Continue that code or restart from begining',
+    choiceLeft: {
+      title: 'continue',
+      img_path: '/assets/img/code.jpg',
+    },
+    choiceRight: {
+      title: 'restart',
+      img_path: '/assets/img/code2.png',
+    },
+  },
 ]
